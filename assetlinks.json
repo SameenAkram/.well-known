@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sameen.cv.base",
+    "sha256_cert_fingerprints":
+    ["09:96:0D:DB:89:4B:E4:70:87:18:06:D3:61:B6:BC:B9:BA:D5:2D:6C:5B:C4:C5:0B:37:D0:55:26:FE:16:0D:4B"]
+  }
+}]
